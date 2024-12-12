@@ -41,7 +41,7 @@ Online supplementary for ***Modha, S., Hughes, J., Orton, R.J., Lytras, S.* Expa
 	- Raw breakpoint clustering analysis results: [BDT](recombination/genomes_rotated_linsialn_1pungap_all_BDT.csv) 
 	and [RRT](recombination/genomes_rotated_linsialn_1pungap_all_RRT.csv).
 	
-- [Phylogenetics](trees):
+- [Phylogenies](trees):
 
 	- [ORF1 phylogeny of human-associated *Anelloviridae*](trees/fig1_humanAnellos_ORF1_cod_aln_70pungap.treefile) (Figure 1).
 	
@@ -49,4 +49,4 @@ Online supplementary for ***Modha, S., Hughes, J., Orton, R.J., Lytras, S.* Expa
 
 - Other data:
 
-	- [Raw data for Figure S4 depth vs GC content comparison](data/figS4B_depthVSgc_window100step50_ranked.csv)
+	- [Raw data for Figure S4 depth vs GC content comparison](data/figS4B_depthVSgc_window100step50_ranked.csv).
