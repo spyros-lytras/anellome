@@ -2,6 +2,8 @@
 
 Online supplementary for ***Modha, S., Hughes, J., Orton, R.J., Lytras, S.* Expanding the genomic diversity of human anelloviruses.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14408301.svg)](https://doi.org/10.5281/zenodo.14408301)
+
 
 [preprint](https://www.biorxiv.org/content/10.1101/2024.05.13.593858v1)
 
